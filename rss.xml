@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wickedhair]]></title>
         <description><![CDATA[wickedhair]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wickedhair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 19:13:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 19:18:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wickedhair/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a01af8-107b-48f3-8cdc-736f9f49398d.jpg">]]></description>
+            <link>https://thegrid.ai/wickedhair/autumn-falls-wickedhair-with-autumn-dies-at-atomic-canary/index.html</link>
+            <guid isPermaLink="false">83ded670-5690-4f34-94ee-0ada8fd75902</guid>
+            <pubDate>Fri, 12 Aug 2016 19:18:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8b7010-744d-47f8-847a-202051626a24.jpg">]]></description>
-            <link>undefinedangel-wings-wickedhair-with-allison-at-atomic-canary-new/index.html</link>
+            <link>https://thegrid.ai/wickedhair/angel-wings-wickedhair-with-allison-at-atomic-canary-new/index.html</link>
             <guid isPermaLink="false">fdaffe9c-3a53-461b-8fc1-2594c8695a25</guid>
             <pubDate>Fri, 12 Aug 2016 19:13:37 GMT</pubDate>
         </item>
